@@ -62,3 +62,4 @@ If everything goes well, you will see the segmentation results in a file named "
 3. Current implementation of CrfRnnLayer only supports batch_size == 1
  
  
+ 
