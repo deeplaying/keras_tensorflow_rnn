@@ -61,3 +61,4 @@ If everything goes well, you will see the segmentation results in a file named "
 2. The `crfrnn_keras_model.h5` model was directly converted from the [Caffe model](https://github.com/torrvision/crfasrnn). However, training new models entirely from Keras is possible too.
 3. Current implementation of CrfRnnLayer only supports batch_size == 1
  
+ 
