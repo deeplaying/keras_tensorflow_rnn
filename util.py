@@ -91,4 +91,4 @@ def get_label_image(probs, img_h, img_w):
     label_im = Image.fromarray(labels, "P")
     label_im.putpalette(_PALETTE)
     return label_im
-                      
+                          
