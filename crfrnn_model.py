@@ -114,4 +114,4 @@ def get_crfrnn_model_def():
     model = Model(img_input, output, name='crfrnn_net')
 
     return model
-                                                                                                                       
+                                                                                                                        
