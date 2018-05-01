@@ -50,4 +50,4 @@ def _high_dim_filter_grad(op, grad):
                                               backwards=True)
 
     return [grad_vals, tf.zeros_like(rgb)]
-                                                                                                                           
+                                                                                                                            
